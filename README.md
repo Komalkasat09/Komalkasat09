@@ -41,22 +41,23 @@ const komal = {
   location    : "Mumbai, India 🇮🇳",
   college     : "SVKM's DJ Sanghvi COE",
   degree      : "B.Tech – AI & Data Science",
+  cgpa        : "8.24 / 10",
 
   currentRoles: [
     "🤖 AI Developer",
     "🌐 Full Stack Engineer",
-    "🔬 NLP Researcher",
-    "🔥 Transformer Fine-Tuner",
+    "🎨 Creatives Head @ NSDC",
+    "💡 Web Dev Mentor @ Infomatrix",
   ],
 
   expertise   : [
-    "BERT Fine-Tuning",
-    "FastAPI + React Systems",
-    "Real-Time Data Processing",
-    "JWT Auth & REST APIs",
+    "Agentic AI Systems",
+    "Next.js + FastAPI Full Stack",
+    "ML & Deep Learning",
+    "Generative AI",
   ],
 
-  funFact     : "I train models AND build apps 🎯",
+  funFact     : "2x Hackathon Winner 🏆",
   motto       : "Code is art. AI is its muse.",
 };
 ```
@@ -70,10 +71,10 @@ const komal = {
 
 ```
 🎓  DJ Sanghvi, Mumbai
-🧠  AI & Data Science
-⚡  Full Stack + AI
-🔥  NLP + Transformers
-🚀  Building since Day 1
+📄  arXiv Published Researcher
+🏆  2x Hackathon Winner
+🎨  Creatives Head @ NSDC
+⚡  Full Stack + Agentic AI
 ```
 
 </td>
@@ -169,7 +170,32 @@ const komal = {
 <tr>
 <td width="50%" valign="top">
 
+### 🎯 SkillSphere — Smart Career Platform
+> **AI-powered career guidance, resumes & interview prep**
+- Built full-stack platform generating personalized resumes with real-time previews & PDF export
+- Multi-step dynamic forms with profession-specific templates and progress saving
+- AI-powered interview question generation with instant feedback
+
+`Next.js` `FastAPI` `MongoDB` `AI` `Tailwind`
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Misinformation Detection Platform
+> **20+ agent Agentic AI pipeline for fake news & deepfakes**
+- Designed multi-agent system for social media content credibility scoring
+- WhatsApp fact-checking bot + interactive 3D globe trend visualization
+- Deepfake detection with real-time analysis pipeline
+
+`Agentic AI` `ML` `FastAPI` `MongoDB` `Next.js`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🧠 NLP Sentiment Engine
+
 > **BERT Fine-Tuning for real-world text classification**
 - Fine-tuned transformer models on custom datasets
 - End-to-end sentiment analysis pipeline
@@ -180,41 +206,38 @@ const komal = {
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Full Stack Auth Platform
-> **Production-grade web app with AI integrations**
-- React frontend + FastAPI backend
-- JWT Authentication + MongoDB Atlas
-- REST API with full CRUD operations
+### 🤟 AI Sign Language Translator
+> **Real-time sign ↔ text ↔ speech translation web app**
+- Sign-to-text/audio, text-to-sign, and speech-to-sign translation
+- Real-time transcripts + AI calling agent integration
+- Interactive learning levels with quizzes
 
-`React` `FastAPI` `MongoDB` `JWT` `Tailwind`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 Real-Time Log Analyzer
-> **Live system log processing and alerting**
-- Java-powered real-time data stream processing
-- Pattern detection and anomaly flagging
-- High-performance concurrent log handling
-
-`Java` `Real-Time Systems` `Data Processing`
-
-</td>
-<td width="50%" valign="top">
-
-### 💹 Financial Data AI Agent
-> **AI-powered stock data extraction & predictions**
-- yFinance API for live financial data
-- ML-based trend prediction models
-- Data visualization dashboards
-
-`Python` `yFinance` `Pandas` `NumPy` `ML`
+`Next.js` `FastAPI` `ML` `Real-Time` `AI`
 
 </td>
 </tr>
 </table>
+
+---
+
+<!-- ===================== RESEARCH ===================== -->
+
+<div align="center">
+
+## 🔬 RESEARCH 🔬
+
+</div>
+
+<div align="center">
+
+| | |
+|:---:|:---|
+| 📄 | **Interpretable Physics Reasoning and Performance Taxonomy in Vision-Language Models** |
+| 🔗 | `arXiv:2509.08270` &nbsp;·&nbsp; 🤗 Hugging Face Papers &nbsp;·&nbsp; Aug – Oct 2025 |
+| 🧠 | Analyzed physics reasoning in vision-language models · Proposed a taxonomy of reasoning types |
+| 📊 | Studied failure modes, interpretability & generalization on multimodal reasoning benchmarks |
+
+</div>
 
 ---
 
@@ -250,11 +273,11 @@ const komal = {
 
 ```python
 current_missions = {
-    "🧠 AI Research"  : "Advanced Transformer Fine-Tuning & NLP Systems",
-    "🌐 Full Stack"   : "Scalable AI-Powered Web Applications",
-    "📦 Backend"      : "High-Performance FastAPI + MongoDB Architectures",
-    "🔬 Open Source"  : "Contributing to ML & AI Tooling",
-    "🎯 2025 Goal"    : "Ship production AI systems that actually matter",
+    "🔬 Research"     : "Vision-Language Models & Multimodal AI Reasoning",
+    "🌐 Full Stack"   : "AI-Powered Products with Next.js + FastAPI",
+    "🤖 Agentic AI"   : "Multi-Agent Pipelines for Real-World Problems",
+    "🏆 Hackathons"   : "Winning more — 2x champ, not stopping here",
+    "🎯 2025 Goal"    : "Publish more research + ship impactful AI products",
 }
 
 for mission, description in current_missions.items():
@@ -293,11 +316,11 @@ for mission, description in current_missions.items():
 
 ## 🌐 CONNECT WITH ME 🌐
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:komalkasat74653@gmail.com">
   <img src="https://img.shields.io/badge/📧%20EMAIL-a855f7?style=for-the-badge&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+<a href="https://www.linkedin.com/in/komal-kasat">
   <img src="https://img.shields.io/badge/LINKEDIN-Komal%20Kasat-ec4899?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
@@ -305,7 +328,7 @@ for mission, description in current_missions.items():
   <img src="https://img.shields.io/badge/GITHUB-Komalkasat09-a855f7?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://YOUR-PORTFOLIO.vercel.app/">
+<a href="https://portfolio-komalkasat.vercel.app">
   <img src="https://img.shields.io/badge/🚀%20PORTFOLIO-ec4899?style=for-the-badge&logoColor=white"/>
 </a>
 
