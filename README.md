@@ -74,6 +74,7 @@ const komal = {
 🎓  DJ Sanghvi, Mumbai
 📄  arXiv Published Researcher
 🏆  2x Hackathon Winner
+💻  working as AI intern 
 🎨  Creatives Head @ NSDC
 ⚡  Full Stack + Agentic AI
 ```
