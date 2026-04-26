@@ -46,7 +46,7 @@ const komal = {
   currentRoles: [
     "🤖 AI Developer",
     "🌐 Full Stack Engineer",
-    "💻 AI intern @Khwaaish
+    "💻 AI intern @Khwaaish",
     "🎨 Creatives Head @ NSDC",
     "💡 Web Dev Mentor @ Infomatrix",
   ],
