@@ -41,7 +41,7 @@ const komal = {
   location    : "Mumbai, India 🇮🇳",
   college     : "SVKM's DJ Sanghvi COE",
   degree      : "B.Tech – AI & Data Science",
-  cgpa        : "8.24 / 10",
+  cgpa        : "8.42",
 
   currentRoles: [
     "🤖 AI Developer",
